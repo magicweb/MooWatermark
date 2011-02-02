@@ -12,7 +12,7 @@ MooWatermark is essentially very easy to use
 
 HTML
 
-<input type="text" name="watermarkname" id="watermarkname" />
+	<input type="text" name="watermarkname" id="watermarkname" />
 
 JavaScript
 
