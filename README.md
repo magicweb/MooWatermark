@@ -16,16 +16,16 @@ HTML
 
 JavaScript
 
-new MooWatermark({
-	textField: 'watermarkname', 
-	hint: 'Your name please'
+	new MooWatermark({
+		textField: 'watermarkname', 
+		hint: 'Your name please'
 	});	
 
 If you wish to customise the style of the watermark, just add your own CSS class. A custom CSS class can be applied to the watermark by means of passing an additional watermarkClass attribute.
 
-new MooWatermark({
-	textField: 'watermarkemail', 
-	hint: 'Your email please',
-	watermarkClass: 'watermarkGreen'
+	new MooWatermark({
+		textField: 'watermarkemail', 
+		hint: 'Your email please',
+		watermarkClass: 'watermarkGreen'
 	});	
 
